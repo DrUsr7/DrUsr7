@@ -1,16 +1,28 @@
-### Hi there 👋
+# About me
 
-<!--
-**DrUsr7/DrUsr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is [your name]. I am interested in various aspects of technology, especially Linux, system administration, encryption and blockchain technologies.
 
-Here are some ideas to get you started:
+## General information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Interest
+
+My main interests:
+
+- Linux and open sources
+- System administration
+- Encryption and cryptography
+- Blockchain technology
+
+## Contacts
+
+I will be happy to discuss joint projects or answer questions. You can contact me using the following means:
+
+- Email: dr_usr7@riseup.net
+
+
+## Translation
+
+- [Ukrainian](./README-uk.md)
+- [Russian](./README-ru.md)
